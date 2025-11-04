@@ -1,0 +1,44 @@
+{
+  "menu": {
+    "About": "Sobre mí",
+    "Portfolio": "Portafolio",
+    "Testimonials": "Testimonios",
+    "Contact": "Contacto",
+    "DonwloadCV": "Descargar CV"
+  },
+  "banner": {
+    "urlImg": "",
+    "subtitle": "¡Bienvenido a mi sitio web! Aquí puedes descubrir mis proyectos digitales, los sitios web que he desarrollado y mis habilidades.",
+    "StartYourProject": "Inicia tu proyecto",
+    "ViewMyWork": "Ver mi trabajo"
+  },
+  "AboutMe": {
+    "AboutMe": "Sobre mí",
+    "TransformingIdeas": "Transformando ideas en sitios web que inspiran y funcionan",
+    "description": "Soy Gabriela Aguilar, una desarrolladora Frontend apasionada con más de 4 años de experiencia creando sitios web rápidos, optimizados y visualmente atractivos. Combino creatividad, investigación y precisión técnica para ofrecer soluciones digitales que representen verdaderamente a cada marca.",
+    "why": "¿Por qué elegirme?",
+    "strategic": "Proceso de diseño estratégico",
+    "strategicDesc": "Antes de escribir una sola línea de código, investigo el mercado, analizo a los competidores y defino una identidad visual clara para el proyecto, asegurando que cada sitio web conecte con su audiencia y se destaque.",
+    "Vision": "De la visión al lanzamiento",
+    "VisionDesc": "Comienzo creando un mockup aprobado en Figma y luego paso sin problemas al desarrollo, ya sea con WordPress o código personalizado, entregando resultados responsivos y profesionales.",
+    "Seo": "Enfoque en SEO y rendimiento",
+    "SeoDesc": "No solo creo sitios web atractivos. Me aseguro de que carguen rápido, tengan un mejor posicionamiento y ofrezcan una experiencia fluida en cualquier dispositivo.",
+    "personalized": "Soporte personalizado",
+    "personalizedDesc": "Cada cliente recibe atención personalizada, optimización posterior al lanzamiento y actualizaciones para mantener su sitio alineado con sus objetivos.",
+    "4years": "Más de 4 años de experiencia en desarrollo web",
+    "projects": "Más de 30 proyectos entregados en diferentes industrias",
+    "workwith": "He trabajado con clientes internacionales",
+    "tecnologies": "Tecnologías y herramientas que utilizo"
+  },
+  "portfolio": {
+    "portfolio": "Portafolio",
+    "FeaturedWork": "Proyectos destacados",
+    "FeaturedWorkDesc": "Una muestra de proyectos donde la creatividad se une con la precisión: algunos diseñados desde el concepto hasta el lanzamiento, otros desarrollados a partir de diseños proporcionados por los clientes, todos construidos con enfoque en el rendimiento y la experiencia del usuario.",
+    "ViewMore": "Ver más"
+  },
+  "Testimonials": {
+    "Testimonials": "Testimonios",
+    "PeopleSay": "Lo que dicen sobre trabajar conmigo",
+    "PeopleSayDesc": "Desde clientes hasta compañeros de trabajo, aquí encontrarás palabras de quienes han experimentado mi ética, creatividad y compromiso de primera mano."
+  }
+}

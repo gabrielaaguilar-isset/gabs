@@ -1,0 +1,45 @@
+{
+  "menu": {
+    "About": "About",
+    "Portfolio": "Portfolio",
+    "Testimonials": "Testimonials",
+    "Contact": "Contact",
+    "DonwloadCV": "Donwload CV"
+  },
+  "banner": {
+    "urlImg": "",
+    "subtitle": "Welcome to my website! Here you can discover my digital projects, the websites I have done and my skills.",
+    "StartYourProject": "Start your project",
+    "ViewMyWork": "View my work"
+  },
+  "AboutMe": {
+    "AboutMe": "About me",
+    "TransformingIdeas": "Transforming ideas into websites that inspire and perform",
+    "description": "I’m Gabriela Aguilar, a passionate Frontend Developer with over 4 years of experience building fast, optimized, and visually engaging websites. I combine creativity, research, and technical precision to deliver digital solutions that truly represent each brand.",
+    "why": "Why Choose Me?",
+    "strategic": "Strategic Design Process",
+    "strategicDesc": "Before writing a single line of code, I research the market, analyze competitors, and define a clear visual identity for the project — ensuring every website connects with its audience and stands out.",
+    "Vision": "From Vision to Launch",
+    "VisionDesc": "I start by creating an approved Figma mockup, then move seamlessly into development using WordPress or custom code, delivering responsive and professional results.",
+    "Seo": "SEO & Performance Focused",
+    "SeoDesc": "I don’t just build beautiful websites. I make sure they load fast, rank better, and provide a smooth user experience on any device.",
+    "personalized": "Personalized Support",
+    "personalizedDesc": "Each client receives tailored attention, post-launch optimization, and updates to keep their site aligned with their goals.",
+    "4years": "4+ Years of Experience in Web Development",
+    "projects": "30+ Projects Delivered across different industries",
+    "workwith": "Worked with international clients",
+    "tecnologies": "Technologies & Tools I Work With"
+  }, 
+  "portfolio":{
+    "portfolio": "Portfolio",
+    "FeaturedWork": "Featured Work",
+    "FeaturedWorkDesc": "A showcase of projects where creativity meets precision; some designed from concept to launch, others developed from client-provided designs, all built with performance and user experience in mind.",
+    "ViewMore": "View more"
+  },
+  "Testimonials": {
+    "Testimonials": "Testimonials",
+    "PeopleSay": "What People Say About Working With Me",
+    "PeopleSayDesc": "From clients to coworkers, here are some words from those who’ve experienced my work ethic, creativity, and commitment firsthand." 
+  }
+  
+}
