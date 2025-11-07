@@ -3,11 +3,16 @@ import LanguageSwitch from "../common/LanguageSwitch";
 import NavbarItems from "../common/NavbarItems";
 import { useTranslation } from "react-i18next";
 import { useState } from "react";
+import i18n from "@/app/i18n";
 
 const Navbar = () => {
   const { t } = useTranslation();
   const [menuOpen, setMenuOpen] = useState(false);
 
+    const cvLink =
+    i18n.language === "en"
+      ? "/GABRIELAAGUILAR-EN-2025.pdf"
+      : "/GABRIELAAGUILAR-ES-2025.pdf";
   return (
     <nav className="fixed top-0 left-1/2 -translate-x-1/2 w-full customMaxW px-5 mt-5 sm:mt-12 z-50">
       <div className="flex justify-between items-center bg-[#1C1C1C] py-5 px-8 rounded-full border border-[#262626] w-full relative">
@@ -19,7 +24,7 @@ const Navbar = () => {
           <NavbarItems  url="/#aboutMe"  title={t("menu.About")} />
           <NavbarItems url="/#Porfolio" title={t("menu.Portfolio")} />
           <NavbarItems url="/#Testimonials" title={t("menu.Testimonials")} />
-          <NavbarItems url="#" title={t("menu.DonwloadCV")} />
+          <NavbarItems url={cvLink} title={t("menu.DonwloadCV")}  newTab={true}  />
         </div>
 
         <div className="hidden md:flex items-center">
@@ -47,7 +52,7 @@ const Navbar = () => {
             <NavbarItems url="/#aboutMe" title={t("menu.About")} />
             <NavbarItems url="/#Porfolio" title={t("menu.Portfolio")} />
             <NavbarItems url="#" title={t("menu.Testimonials")} />
-            <NavbarItems url="#" title={t("menu.DonwloadCV")} />
+            <NavbarItems url={cvLink} title={t("menu.DonwloadCV")} newTab={true} />
 
             <LanguageSwitch />
           </div>

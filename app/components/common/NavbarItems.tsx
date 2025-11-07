@@ -1,17 +1,16 @@
-
-
 interface NavbarItemsProps {
   url: string;
   title: string;
-  className?: string; 
+  className?: string;
+  newTab?: boolean; // ✅ Nueva prop opcional
 }
 
-const NavbarItems = ({ url, title, className }: NavbarItemsProps) => {
-  
-    return (
-    <a 
+const NavbarItems = ({ url, title, className, newTab = false }: NavbarItemsProps) => {
+  return (
+    <a
       href={url}
       className={`text-md hover:text-[#5D4FB6] ${className || ''}`}
+      {...(newTab ? { target: "_blank", rel: "noopener noreferrer" } : {})} // ✅ Condicional
     >
       {title}
     </a>
