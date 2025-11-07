@@ -1,0 +1,62 @@
+{
+     "emprenderyelevarse.svg": {
+        "titulo": "Emprender y Elevarse",
+        "src": "/emprenderyelevarse.svg",
+        "urlImg": "https://emprenderyelevarse.com/"
+    },
+    "togo": {
+        "titulo": "Togo Marketing",
+        "src": "/togo.svg",
+        "urlImg": "https://togomarket.co/"
+    },
+    "redcloud": {
+        "titulo": "RedCloud",
+        "src": "/redcloud.svg",
+        "urlImg": "https://redcloud.la/"
+    },
+    "mego": {
+        "titulo": "Mego Afek",
+        "src": "/mego.svg",
+        "urlImg": "https://mego-afek.com/"
+    },
+    "Blog del Rebobinador": {
+        "titulo": "Blog del Rebobinador",
+        "src": "/blog.svg",
+        "urlImg": "https://blogdelrebobinador.com/"
+    },
+    "Hipnosis Group": {
+        "titulo": "Hipnosis Group",
+        "src": "/hipnosis.svg",
+        "urlImg": "https://hipnosisgroup.com/"
+    },
+    "Dilo Club": {
+        "titulo": "Dilo Club",
+        "src": "/dilo.svg",
+        "urlImg": "https://dilo.club/"
+    },
+    "Next": {
+        "titulo": "Next!",
+        "src": "/next.svg",
+        "urlImg": "https://agencianextmkt.com/"
+    },
+    "Travsecrets": {
+        "titulo": "Travsecrets",
+        "src": "/travsecret.svg",
+        "urlImg": "https://travnow.vercel.app/"
+    },
+    "Adriana Capon": {
+        "titulo": "Adriana Capon",
+        "src": "/adri.svg",
+        "urlImg": "https://adricapon.com/"
+    },
+    "Mauricorp": {
+        "titulo": "Mauricorp",
+        "src": "mauricorp.com_ 1.svg",
+        "urlImg": "https://mauricorp.com/es/"
+    },
+    "Store Mauricorp": {
+        "titulo": "Store Mauricorp",
+        "src": "store.mauricorp.svg",
+        "urlImg": "https://store.mauricorp.com/"
+    }
+}

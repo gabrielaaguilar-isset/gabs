@@ -1,0 +1,35 @@
+{
+    "Wordpress":{
+        "alt": "Wordpress",
+        "src": "/Wordpress.svg"
+    },
+     "Shopify":{
+        "alt": "Shopify",
+        "src": "/Shopify.svg"
+    },
+    "React":{
+        "alt": "React",
+        "src": "/React.svg"
+    },
+     "TypeScript":{
+        "alt": "TypeScript",
+        "src": "/TypeScript.svg"
+    },
+     "Tailwind":{
+        "alt": "Tailwind",
+        "src": "/Tailwind.svg"
+    },
+     "Next js":{
+        "alt": "Next js",
+        "src": "/Nextjs.svg"
+    },
+     "Figma":{
+        "alt": "Figma",
+        "src": "/Figma.svg"
+    },
+     "Phostoshop":{
+        "alt": "Phostoshop",
+        "src": "/Phostoshop.svg"
+    }
+
+}

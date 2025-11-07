@@ -4,7 +4,9 @@
     "Portfolio": "Portfolio",
     "Testimonials": "Testimonials",
     "Contact": "Contact",
-    "DonwloadCV": "Donwload CV"
+    "DonwloadCV": "Donwload CV",
+    "Spanish": "Español",
+    "English": "English"
   },
   "banner": {
     "urlImg": "",
@@ -15,7 +17,7 @@
   "AboutMe": {
     "AboutMe": "About me",
     "TransformingIdeas": "Transforming ideas into websites that inspire and perform",
-    "description": "I’m Gabriela Aguilar, a passionate Frontend Developer with over 4 years of experience building fast, optimized, and visually engaging websites. I combine creativity, research, and technical precision to deliver digital solutions that truly represent each brand.",
+    "description": "I’m a passionate Frontend Developer with over 4 years of experience building fast, optimized, and visually engaging websites. I combine creativity, research, and technical precision to deliver digital solutions that truly represent each brand.",
     "why": "Why Choose Me?",
     "strategic": "Strategic Design Process",
     "strategicDesc": "Before writing a single line of code, I research the market, analyze competitors, and define a clear visual identity for the project — ensuring every website connects with its audience and stands out.",

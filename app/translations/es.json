@@ -4,7 +4,10 @@
     "Portfolio": "Portafolio",
     "Testimonials": "Testimonios",
     "Contact": "Contacto",
-    "DonwloadCV": "Descargar CV"
+    "DonwloadCV": "Descargar CV",
+    "Spanish": "Español",
+    "English": "English"
+
   },
   "banner": {
     "urlImg": "",
@@ -15,7 +18,7 @@
   "AboutMe": {
     "AboutMe": "Sobre mí",
     "TransformingIdeas": "Transformando ideas en sitios web que inspiran y funcionan",
-    "description": "Soy Gabriela Aguilar, una desarrolladora Frontend apasionada con más de 4 años de experiencia creando sitios web rápidos, optimizados y visualmente atractivos. Combino creatividad, investigación y precisión técnica para ofrecer soluciones digitales que representen verdaderamente a cada marca.",
+    "description": "Soy una desarrolladora Frontend apasionada con más de 4 años de experiencia creando sitios web rápidos, optimizados y visualmente atractivos. Combino creatividad, investigación y precisión técnica para ofrecer soluciones digitales que representen verdaderamente a cada marca.",
     "why": "¿Por qué elegirme?",
     "strategic": "Proceso de diseño estratégico",
     "strategicDesc": "Antes de escribir una sola línea de código, investigo el mercado, analizo a los competidores y defino una identidad visual clara para el proyecto, asegurando que cada sitio web conecte con su audiencia y se destaque.",

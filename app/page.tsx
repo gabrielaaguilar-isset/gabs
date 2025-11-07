@@ -1,31 +1,45 @@
 'use client';
-import Image from "next/image";
-import "./i18n"; 
+import Navbar from "./components/layout/Navbar";
+import "./i18n";
 import { useTranslation } from 'react-i18next';
+import Banner from "./sections/Banner";
+import Image from "next/image";
+import AboutMe from "./sections/AboutMe";
+import Portfolio from "./sections/Portfolio";
+import Testimonials from "./sections/Testimonials";
+import Footer from "./components/layout/Footer";
 
 export default function Home() {
 
   const { t, i18n } = useTranslation();
 
-  const changeLanguage = (lang:string) => {
+  const changeLanguage = (lang: string) => {
     i18n.changeLanguage(lang)
   }
   return (
-    <div >
-      <main>
+    <>
+      <Navbar />
+      <main className="flex flex-col md:gap-20 gap-12" >
         <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
+          src="/abstractDesign.svg"
+          width={435}
+          height={472}
+          alt="imagen"
+          className="absolute right-0 top-0" />
 
-        <button onClick={() => changeLanguage("es")}>Español</button>
-         <button onClick={() => changeLanguage("en")}>English</button>
-      <h1>{t('Welcome to React')}</h1>
+        <Banner />
+         <Image
+          src="/abstractDesign.svg"
+          width={435}
+          height={472}
+          alt="imagen"
+          className="absolute -left-8 bottom-32 rotate-[61deg] w-2xs md:w-[435px]" />
+
+          <AboutMe />
+          <Portfolio />
+          <Testimonials />
+          <Footer />
       </main>
-    </div>
+    </>
   );
 }
