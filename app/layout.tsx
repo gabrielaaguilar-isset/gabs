@@ -11,9 +11,9 @@ const LexendFont = Lexend({
 
 export const metadata: Metadata = {
   title: "Gabriela Aguilar - Frontend Developer",
-  description: "I’m Gabriela Aguilar, a passionate Frontend Developer with over 4 years of experience building fast, optimized, and visually engaging websites. I combine creativity, research, and technical precision to deliver digital solutions that truly represent each brand.",
-   icons: {
-    icon: "/favicon.svg", // Ruta desde /public o /app
+  description: "I'm Gabriela Aguilar, a passionate Frontend Developer with over 4 years of experience building fast, optimized, and visually engaging websites. I combine creativity, research, and technical precision to deliver digital solutions that truly represent each brand.",
+  icons:  {
+    icon: "/favicon.svg", 
   },
 };
 
