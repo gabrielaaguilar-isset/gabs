@@ -11,7 +11,7 @@ const Navbar = () => {
 
     const cvLink =
     i18n.language === "en"
-      ? "/GABRIELAAGUILAR-EN-2025.pdf"
+      ? "/curriculumVitaeGabrielaAguilar-EN.pdf"
       : "/gabriela-aguilar-2026-es.pdf";
   return (
     <nav className="fixed top-0 left-1/2 -translate-x-1/2 w-full customMaxW px-5 mt-5 sm:mt-12 z-50">
